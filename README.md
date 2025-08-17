@@ -21,6 +21,7 @@ Admin có quyền quản lý người dùng (bao gồm xóa tài khoản).
 - **Database:** MySQL (XAMPP, user `root`, không mật khẩu)  
 
 ## 📂 Cấu trúc thư mục
+
 products-ecommerce-website/
 ├── client/ # ReactJS frontend
 │ ├── public/
