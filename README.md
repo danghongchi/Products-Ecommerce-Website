@@ -22,22 +22,7 @@ Admin có quyền quản lý người dùng (bao gồm xóa tài khoản).
 
 ## 📂 Cấu trúc thư mục
 
-products-ecommerce-website/
-├── client/ # ReactJS frontend
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ └── App.jsx
-├── server/ # Node.js backend (Express)
-│ ├── routes/
-│ ├── models/
-│ ├── controllers/
-│ ├── config/
-│ └── server.js
-└── docs/ # Tài liệu, hình ảnh minh họa
-└── images/
+<img width="499" height="364" alt="image" src="https://github.com/user-attachments/assets/7db4e46e-7def-450a-90bb-09d5c39802e1" />
 
 bash
 Copy code
