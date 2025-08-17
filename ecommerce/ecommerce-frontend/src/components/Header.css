@@ -1,0 +1,73 @@
+.text-center {
+    text-align: center; /* Căn giữa nội dung */
+}
+
+.cart-btns {
+    margin-top: 10px; /* Thêm khoảng cách nếu cần */
+}
+/* Header.css */
+
+#header {
+    background-color: #f8f9fa; /* Màu nền cho header */
+    padding: 10px 0; /* Khoảng cách cho header */
+}
+
+/* Header.css */
+
+.header-logo img {
+    width: 60px; /* Kích thước logo là 40px */
+    height: auto; /* Giữ tỷ lệ khung hình */
+    display: block; /* Đảm bảo logo không có khoảng cách bên dưới */
+    margin: 0 auto; /* Căn giữa logo nếu cần */
+}
+.header-search {
+    display: flex;
+    align-items: center; /* Căn giữa các phần tử trong thanh tìm kiếm */
+}
+
+.input-select {
+    margin-right: 10px; /* Khoảng cách giữa dropdown và input */
+}
+
+.header-ctn {
+    display: flex;
+    justify-content: space-between; /* Căn giữa các phần tử trong header */
+    align-items: center;
+}
+
+.dropdown-toggle {
+    display: flex;
+    align-items: center; /* Căn giữa biểu tượng giỏ hàng và văn bản */
+}
+
+.qty {
+    background-color: #dc3545; /* Màu nền cho số lượng */
+    color: white; /* Màu chữ cho số lượng */
+    border-radius: 50%; /* Tạo hình tròn cho số lượng */
+    padding: 5px 10px; /* Khoảng cách cho số lượng */
+    margin-left: 5px; /* Khoảng cách giữa biểu tượng và số lượng */
+}
+
+.header-ctn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Liên kết ngang giữa các thành phần */
+.nav-links {
+    display: flex;
+    gap: 20px; /* Khoảng cách giữa các liên kết */
+    
+}
+
+.nav-links a {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
